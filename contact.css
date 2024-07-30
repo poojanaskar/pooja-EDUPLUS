@@ -116,6 +116,7 @@ row-gap: 0;
     height: 8vh;
     /* background-color: blue;
     border-color: #fe7004; */
+   
 
 }
 ul li{
@@ -140,6 +141,7 @@ ul li{
 
     width: 40vh;
     height: 3rem;
+    text-align: center;
 
 }
 .mail {
@@ -155,6 +157,7 @@ ul li{
 
     width: 40vh;
     height: 3rem;
+    text-align: center;
 
 }
 .msg1{
@@ -173,6 +176,7 @@ ul li{
 
      .msg1 label {
         font-size: 18px;
+        
      
     
    
@@ -184,6 +188,7 @@ ul li{
     width: 40vw;
     height: 100px;
      resize: vertical;
+    
 }
 
 
